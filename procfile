@@ -1,1 +1,1 @@
-web: gunicorn hell-in.wsgi --log-file
+web: gunicorn mysite1.wsgi --log-file
